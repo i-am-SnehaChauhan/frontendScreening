@@ -33,9 +33,9 @@ source {
   width: auto;
 }
 
-@media (min-width: 398px) {
+@media (max-width: 374px) {
     .text-overlay {
-      display: block; /* Display the overlay for screens wider than 768px */
+      display: none; 
     }
   }
   

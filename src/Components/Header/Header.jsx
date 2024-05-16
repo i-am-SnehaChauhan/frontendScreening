@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <header className="header">
       <picture>
-        <source media="(max-width: 398px)" srcSet={HeaderImgMobile} />
+        <source media="(max-width: 374px)" srcSet={HeaderImgMobile} />
         <img src={HeaderImg} alt="header" />
       </picture>
       <div className="text-overlay">
