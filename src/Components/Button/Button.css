@@ -1,0 +1,18 @@
+.load-more-button {
+    background: none;
+    border: none;
+    margin-left: 45%;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  @media (max-width: 467px) {
+    .load-more-button{
+       margin-left: 25%;
+       font-size: 18px;
+    }
+  }
