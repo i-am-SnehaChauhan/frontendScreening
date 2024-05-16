@@ -1,0 +1,30 @@
+.NewsCart-div {
+    background-color: #F5F4F4;
+    margin: 0px 64px 20px 82px;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+}
+
+.news-grid {
+    background-color: #F5F4F4;
+    width: 100%; /* Full width */
+    grid-template-columns: repeat(3, 1fr); /* Three columns */
+    gap: 30px; /* Gap between items */
+}
+
+@media (max-width: 768px) {
+    .NewsCart-div {
+        margin: 0px 20px 20px 20px; /* Adjust margin for smaller screens */
+    }
+
+    .news-grid {
+        grid-template-columns: repeat(2, 1fr); /* Two columns for smaller screens */
+    }
+}
+
+@media (max-width: 468px) {
+    .news-grid {
+        grid-template-columns: repeat(1, 1fr); /* One column for mobile screens */
+    }
+}

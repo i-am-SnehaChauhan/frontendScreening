@@ -1,0 +1,42 @@
+.Cart {
+    background-color: #F5F4F4;
+    width: 100%; 
+    box-sizing: border-box; 
+  }
+
+.Cart h6{
+    margin: 8px 0px;
+    font-size: 12px;
+    color: #9D9D9D;
+}
+
+.Cart h2 {
+    font-size: 24px;
+    color: #124566;
+    margin-top: 0; 
+}
+
+.Learn-button h1{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    color: #124566;
+    font-size: 18px;
+}
+  /* For larger screens (desktops, tablets, etc.) */
+  @media (min-width: 768px) {
+    .Cart {
+      width: calc(33.333% - 40px); /* Three Cart components in each row with some gap */
+      margin: 0 20px 20px 0; /* Add margin for spacing between Cart components */
+      float: left; /* Float Cart components to the left */
+    }
+  }
+  
+  /* For mobile screens */
+  @media (max-width: 467px) {
+    .Cart {
+      width: 100%; /* Each Cart component takes full width */
+      margin-bottom: 20px; /* Add bottom margin for spacing between Cart components */
+    }
+  }
+  

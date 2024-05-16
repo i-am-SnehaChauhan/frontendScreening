@@ -63,4 +63,9 @@
     .About-container {
       display: none;
     }
+
+    .heading{
+      font-size: 30px;
+      margin-left: 0px;
+    }
   }
