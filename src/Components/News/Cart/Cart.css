@@ -15,7 +15,14 @@
     color: #124566;
     margin-top: 0; 
 }
-
+.Learn-button {
+  color: #124566;
+  font-size: 18px;
+  margin-top: 15px;
+  border-bottom: 2px solid #124566; /* Adds an underline to the bottom of the div */
+  display: inline-flex;
+  align-items: center;
+}
 .Learn-button h1{
     display: flex;
     align-items: center;
