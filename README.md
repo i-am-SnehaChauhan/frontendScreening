@@ -2,13 +2,21 @@
 
 
 
-https://github.com/i-am-SnehaChauhan/frontend_screening/assets/94298791/3504dce2-f20c-4f1b-9cd2-f78455427dc0
+
+https://github.com/i-am-SnehaChauhan/frontend_screening/assets/94298791/584102d9-5c7c-473e-ad40-d562040c6d79
+
+
+
 
 
 ## Mobile screen 
 
 
 
-https://github.com/i-am-SnehaChauhan/frontend_screening/assets/94298791/05220f19-f262-4b50-b7cc-952c15e3627e
+
+https://github.com/i-am-SnehaChauhan/frontend_screening/assets/94298791/36801a24-6df7-4a44-9fd9-acd12c5519ce
+
+
+
 
 
