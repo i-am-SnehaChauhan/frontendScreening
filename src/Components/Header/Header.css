@@ -9,7 +9,7 @@
 .text-overlay {
   position: absolute;
   top: 70%;
-  left: 10%;
+  left: 15%;
   transform: translate(-50%, -50%);
   text-align: center;
   color: white;
@@ -33,9 +33,10 @@ source {
   width: auto;
 }
 
+
 @media (max-width: 374px) {
     .text-overlay {
       display: none; 
     }
-  }
+}
   
